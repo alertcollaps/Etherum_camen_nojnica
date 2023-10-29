@@ -1,5 +1,5 @@
 # Etherum_camen_nojnica
-
+```
 //ERC20
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.20;
@@ -96,3 +96,4 @@ contract Lexa is ERC20("LexaTocken", "TT"),Ownable(msg.sender){
         
     }
 }
+```
